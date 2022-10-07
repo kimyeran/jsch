@@ -1,0 +1,20 @@
+html {
+    font-family: "Avenir Next", Helevetica, sans-serif;
+    text-align: center;
+  }
+
+  body {
+    margin: 0 auto;
+    text-shadow: 1px 1px 2px aliceblue;
+   
+  }
+
+  h1, h2 {
+    font-weight: 300;
+
+   
+  }
+
+  .hidden {
+    display: none;
+  }
